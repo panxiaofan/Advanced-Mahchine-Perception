@@ -14,4 +14,3 @@ Project 5 MaskRCNN (Contribution to repo: https://github.com/jianxiongcai/MASK_R
 Project 6 GAN/ VAE
 
 Final Porject BicycleGAN
-(note: Project 3 and all the following projects are private repos shared with my teamates)
